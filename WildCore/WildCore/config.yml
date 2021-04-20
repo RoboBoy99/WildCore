@@ -1,0 +1,34 @@
+###########################
+# +---------------------+ #
+# |------- wCore -------| #
+# +---------------------+ #
+###########################
+
+###################################
+# +-----------------------------+ #
+# |----- Messages & Sounds -----| #
+# +-----------------------------+ #
+###################################
+
+#Like the name says
+#Dont put color codes in the "" for the sound section!! when u change the sound u need to do a full reload!#
+#Use the sounds from this list https://www.spigotmc.org/wiki/cc-sounds-list/?__cf_chl_jschl_tk__=10b5ad3dce34ac785a43c0600c415236e86c1dbc-1587870134-0-Afzv9gxQFN6XzcStfjNw34ZpM9Dxrkg2J7jB3tqQdQC0aoS-1LWwnHBVChTAzLTF2iXqDmTzyHfjUJaNaiRJflGl-6xUy2O602wNyPCMJ8Cq14gKCa0DdL3F35FIVSzY25KAYJRmjzWN_8sNjzKOViYWffJFcKjHeZaAcAyDURzMQE7GjtkWj-H3C66Yzmsn48QbCNBmurY3qoVPVw-JhCPBx6u0hScREgDJpXnFG0nyLnWHlbAZwv-XGmsIpJl5tWTRnICapCSqJxUv-TktioXQ-RTDqGUmiPpGI7hOFVM8
+JoinSound: "random.levelup"
+
+Store-msg: "&7» Visit our store at: &astore.wildpvp.net"
+Store-sound: "random.levelup"
+
+Apply-msg: "&7» Apply for staff at: &aapply.wildpvp.net"
+Apply-sound: "random.levelup"
+
+Rules-msg: "&7» All network rules can be found at: &arules.wildpvp.net"
+Rules-sound: "random.levelup"
+
+Discord-msg: "&7» Join our Discord at: &adiscord.wildpvp.net"
+Discord-sound: "random.levelup"
+
+Twitter-msg: "&7» Follow our twitter at: &atwitter.com/wild_network"
+Twitter-sound: "random.levelup"
+
+Reddit-msg: "&7» Join our subreddit at: &areddit.com/r/wildpvp"
+Reddit-sound: "random.levelup"

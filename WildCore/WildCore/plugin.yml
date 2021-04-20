@@ -1,0 +1,13 @@
+name: wCore
+version: 1.0
+main: me.RoboBoy99.WildCore.WildCore
+commands:
+  Store:
+  wCore:
+  Apply:
+  Rules:
+  Discord:
+  Twitter:
+  Reddit:
+  Reboot:
+  Learn:

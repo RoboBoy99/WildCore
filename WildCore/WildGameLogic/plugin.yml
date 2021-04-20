@@ -1,0 +1,5 @@
+name: wGameLogic
+version: 1.1
+main: me.RoboBoy99.WildGameLogic.WildGameLogic
+commands:
+  wGameLogic:
